@@ -1,0 +1,16 @@
+div{
+    background-color: beige;
+    width: 70%;
+    height: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+table{
+    background-color: cadetblue;
+    margin: auto;
+    border-collapse: collapse;
+}
+table tr{
+    margin-inli;
+}
